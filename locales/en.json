@@ -1,0 +1,6 @@
+{
+    "awablack.fullscreen.name": "Full Screen",
+    "awablack.fullscreen.description": "Detection whether it is currently full screen",
+    "awablack.fullscreen.category": "Full Screen",
+    "awablack.fullscreen.isfullscreen": "Full Screen?"
+}
